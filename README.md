@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thebannedplayer
+- 👀 I’m interested in game coding
+- 🌱 I’m currently learning to code c++
